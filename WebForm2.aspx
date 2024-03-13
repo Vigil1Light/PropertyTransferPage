@@ -140,7 +140,7 @@
                 top: -20px;
                 left: 0;
                 color: #03e9f4;
-                font-size: 12px;
+                font-size: 15px;
             }
 
             .shadowbutton {
