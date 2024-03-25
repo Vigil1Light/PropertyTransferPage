@@ -254,7 +254,7 @@
 
                   if (document.getElementById('DropDownList5').value == '') {
 
-                      required += '- Pleae Enter DropDownList5 Value\n';
+                      required += '- Pleae Enter DropDownList5 Value';
                   }
 
                   if (required != '') {
