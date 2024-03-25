@@ -95,13 +95,13 @@ Partial Public Class WebForm2
     Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''DropDownList2 control.
+    '''ddTransferFrom control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents DropDownList2 As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents ddTransferFrom As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Lcode control.
@@ -248,11 +248,11 @@ Partial Public Class WebForm2
     Protected WithEvents Button1 As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Button2 control.
+    '''btnSubmit control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Button2 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents btnSubmit As Global.System.Web.UI.WebControls.Button
 End Class
